@@ -1,17 +1,17 @@
 {
-  "name": "AdonixBail",
+  "name": "MakiBaileys",
   "version": "25.9.1",
   "description": "whatsapp-api modification",
   "keywords": [
     "whatsapp",
     "baileys"
   ],
-  "homepage": "https://github.com/Ado-rgb/AdonixBaileys",
+  "homepage": "https://github.com/aliza-kojou/MakiBaileys",
   "repository": {
-    "url": "https://github.com/Ado-rgb/AdonixBaileys"
+    "url": "https://github.com/aliza-kojou/Baileys"
   },
   "license": "MIT",
-  "author": "Ado-rgb",
+  "author": "aliza-kojou",
   "main": "lib/index.js",
   "files": [
     "lib/*",
